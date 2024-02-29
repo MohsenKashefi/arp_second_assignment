@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "constants.h": "c",
+        "stdio.h": "c",
+        "const.h": "c",
+        "time.h": "c",
+        "ipc.h": "c",
+        "structures.h": "c",
+        "stdbool.h": "c",
+        "common_functions.h": "c",
+        "random": "c",
+        "drone_const.h": "c",
+        "signal.h": "c",
+        "types.h": "c",
+        "drone_functions.h": "c",
+        "droneconst.h": "c",
+        "inputconst.h": "c",
+        "targetconst.h": "c",
+        "ncurses.h": "c",
+        "bitset": "c",
+        "set": "c",
+        "obstaclevar.h": "c",
+        "windowvar.h": "c"
+    }
+}

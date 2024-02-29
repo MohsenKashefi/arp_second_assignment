@@ -1,0 +1,10 @@
+drone.symbol = 'X'
+drone.color_paire = 2 
+M = 0.1
+K = 5.0
+drone.x = 25
+drone.y = 25
+NUMBER_OF_OBSTACLES = 20
+NUM_TARGETS = 10 
+time_for_refreshing_obstacles = 60 
+refresh_time_targets = 120 

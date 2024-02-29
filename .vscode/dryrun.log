@@ -1,0 +1,12 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/mohsen/Downloads/arp_second_asignment'
+gcc src/master.c -o build/master
+gcc src/server.c -o build/server
+gcc src/drone.c -o build/drone -lncurses -lm
+gcc src/input.c -o build/input -lncurses
+gcc src/window.c -o build/window -lncurses
+gcc src/obstacles.c -o build/obstacles -lncurses
+gcc src/targets.c -o build/targets -lncurses
+gcc src/watchdog.c -o build/watchdog -lncurses
+make: Leaving directory '/home/mohsen/Downloads/arp_second_asignment'
+ 

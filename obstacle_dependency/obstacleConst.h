@@ -1,0 +1,4 @@
+#define REPLUSION_FORCE_FOR_OBSTACLE 1.0
+
+#define PIPE_READ 0
+#define PIPE_WRITE 1
